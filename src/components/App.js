@@ -1,8 +1,8 @@
 import "./../styles/App.css";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import UserDetails from "./src/components/UserDetails";
-import UserList from "./src/components/UserList";
+import UserDetails from "./components/UserDetails";
+import UserList from "./components/UserList";
 
 const App = () => {
   return (
